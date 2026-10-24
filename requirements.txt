@@ -1,0 +1,6 @@
+topo_analyzer/
+├── app.py                 # Веб-интерфейс
+├── topo_processor.py      # Основная логика
+├── requirements.txt
+├── README.md
+└── .gitignore
